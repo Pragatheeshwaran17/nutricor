@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('black2.jpg');
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    color: #ffffff; /* Text color */
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    /* background-color: rgba(169, 91, 215, 0.5); Transparent black background  */ */
+    border-radius: 10px;
+    text-align: center;
+  }
+  .head{
+    font-family:cursive ;
+    text-align: center;
+    background: linear-gradient(to right,rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.794),rgba(255, 255, 255, 0));
+    /* background: rgba(35, 1, 1, 0.534); */
+    color: rgb(121, 137, 252);
+  }
+
+  .content{
+    background-color: #8912123e;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    background-color: rgba(rgb(45, 173, 48), rgb(222, 231, 222), rgb(21, 21, 131), );
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .quote {
+    margin-top: 30px;
+  }
+  
+  .social-links {
+    margin-top: 30px;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 40px;
+    color: #64f00c;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
